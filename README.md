@@ -113,8 +113,8 @@ All state is shared via `ScratchCardViewModel`.
 ## Author
 
 **Matej Filus**  
-🧠 Android Developer Candidate  
-📍 O2 Slovakia Home Assignment
+Android Developer Candidate  
+O2 Slovakia Home Assignment
 
 ---
 
