@@ -38,7 +38,6 @@ com.matejfilus.o2scratchcard/
 │ │ ├── ActivationApi.kt
 │ │ └── RetrofitInstance.kt
 │ └── repository/
-│    ├── ActivationRepository.kt
 │    └── DefaultActivationRepository.kt
 │
 ├── domain/
