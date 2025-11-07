@@ -18,10 +18,8 @@ import com.matejfilus.o2scratchcard.viewmodel.ScratchCardViewModelFactory
 
 class MainActivity : ComponentActivity() {
 
-    // ✅ ViewModel s vlastnou továrničkou (factory)
     private val viewModel: ScratchCardViewModel by viewModels {
         ScratchCardViewModelFactory(DefaultActivationRepository(com.matejfilus.o2scratchcard.data.api.RetrofitInstance.api))
-
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {

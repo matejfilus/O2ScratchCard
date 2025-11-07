@@ -2,6 +2,7 @@ package com.matejfilus.o2scratchcard.data.api
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
+import com.matejfilus.o2scratchcard.data.repository.ActivationRepository
 
 /**
  * Retrofit API definition for activating a scratch card.
