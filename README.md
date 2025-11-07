@@ -37,14 +37,13 @@ com.matejfilus.o2scratchcard/
 │ ├── api/
 │ │ ├── ActivationApi.kt
 │ │ └── RetrofitInstance.kt
-│ └── repository/
-│    └── DefaultActivationRepository.kt
+│ └── repository/ → DefaultActivationRepository.kt
 │
 ├── domain/
 │ └── model/
-│    ├── CardState.kt
-│    ├── ScratchCard.kt
-│    └── CardHistoryItem.kt
+│   ├── CardState.kt
+│   ├── ScratchCard.kt
+│   └── CardHistoryItem.kt
 │
 ├── ui/
 │ ├── main/ → MainScreen.kt
